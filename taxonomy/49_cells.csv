@@ -1,0 +1,8 @@
+Layer,Dimension,Example_Assumption,Framework,Principle
+Management,Power,"Continuous electricity is available to run all security controls",NIST CSF 2.0,GV.OC-01
+Management,Connectivity,"Uninterrupted broadband connectivity supports remote monitoring",NIST CSF 2.0,GV.OC-01
+Management,Supply_Chain,"Hardware and software components are procurable without embargoes",NIST CSF 2.0,GV.OC-01
+Management,Skilled_Labour,"Qualified personnel can interpret audit logs and alerts",NIST CSF 2.0,GV.OC-01
+Management,Legal_Regulatory,"Applicable laws require incident reporting within 72 hours",NIST CSF 2.0,GV.OC-01
+Management,Financial,"Budgets allow investment in redundant infrastructure",NIST CSF 2.0,GV.OC-01
+Management,Physical_Security,"Data centres are protected from theft and vandalism",NIST CSF 2.0,GV.OC-01

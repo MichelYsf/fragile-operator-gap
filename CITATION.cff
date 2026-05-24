@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: >
+  If you use the Fragile-Operator Gap dataset or protocol in your work, please cite this repository.
+title: "The Fragile‑Operator Gap: Assumption‑Extraction Protocol and Coded Taxonomy"
+authors:
+  - family-names: Youssef
+    given-names: Michel
+    affiliation: Midclear
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >
+  This repository contains the five‑step assumption‑extraction protocol, the 49‑cell coded taxonomy, the framework corpus, and a validation subsample with second‑coder instructions.  The dataset supports open replicability for the study "The Fragile‑Operator Gap".  OSF and Zenodo DOIs are linked in the README.
+license: CC-BY-4.0
+keywords:
+  - cybersecurity
+  - zero trust
+  - systematisation of knowledge
+  - replicability

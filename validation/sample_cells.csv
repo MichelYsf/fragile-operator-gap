@@ -1,0 +1,9 @@
+Framework,Principle,Text
+NIST SP 800-207,Tenet 6,"All data sources and computing services are considered resources and should use network and identity-aware access controls.  The enterprise monitors and measures the integrity and security posture of all owned and associated assets."
+NIST CSF 2.0,GV.OC-01,"Establish, operate, and maintain a management program to enable the oversight and review of cybersecurity risk."
+EU Directive 2022/2555,Art. 21,"Member States shall ensure that entities take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems."
+DORA,Art. 6,"Financial entities shall have in place sound, comprehensive and well‑documented ICT risk-management frameworks that address risks quickly, comprehensively and effectively and ensure a high level of digital operational resilience."
+ISO/IEC 27001:2022,6.1.3,"Information security risk treatment plan shall be developed and implemented to determine appropriate management action, resources, responsibilities and priorities."
+EU Directive 2022/2555,Art. 23,"Member States shall ensure that essential and important entities notify, without undue delay, the competent authorities or CSIRT of any significant incident."
+NIST SP 800-207,Tenet 3,"Continuous diagnostics and mitigation monitors the security posture of assets and ensures dynamic policy enforcement."
+ISO/IEC 27001:2022,9.1.1,"The organisation shall determine what needs to be monitored and measured, including the methods for monitoring, measurement, analysis and evaluation."
